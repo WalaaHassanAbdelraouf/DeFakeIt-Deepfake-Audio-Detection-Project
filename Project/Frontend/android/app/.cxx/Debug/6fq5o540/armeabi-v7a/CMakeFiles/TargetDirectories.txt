@@ -1,0 +1,2 @@
+C:/Users/Farah Hegazy/AndroidStudioProjects/DeFakeIt/android/app/.cxx/Debug/6fq5o540/armeabi-v7a/CMakeFiles/edit_cache.dir
+C:/Users/Farah Hegazy/AndroidStudioProjects/DeFakeIt/android/app/.cxx/Debug/6fq5o540/armeabi-v7a/CMakeFiles/rebuild_cache.dir
