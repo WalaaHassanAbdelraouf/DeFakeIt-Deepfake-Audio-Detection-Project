@@ -4,7 +4,7 @@ This project aims to detect synthetic (deepfake) audio using Convolutional Neura
 
 ---
 
-## 📦 Dataset Overview
+## Dataset Overview
 
 The Fake-or-Real dataset used consists of audio clips divided into:
 
@@ -19,7 +19,7 @@ Split:
 
 ---
 
-## 🔍 Preprocessing 🔧
+## Preprocessing 
 
 A multi-step preprocessing pipeline was applied to each audio file:
 
@@ -37,33 +37,33 @@ A multi-step preprocessing pipeline was applied to each audio file:
 
 ---
 
-## 🧠 Models Trained
+## Models Trained
 
-### ✅ Custom CNN
+### Custom CNN
 - Trained from scratch on extracted MFCC images.
 - Final testing Accuracy: 84%
 - Model was saved in .h5 format for deployment.
 
-### ✅ ResNet50
+### ResNet50
 - Final testing Accuracy: 85%
 - complex but very stable in terms of learning.
   
-### ✅ MobileNet
+### MobileNet
 - Final testing Accuracy: 89%
 - Lightweight and fast, good for mobile deployment.
 
-### ✅ VGG16
+### VGG16
 - Final testing Accuracy: 90%
 - Heavier but very stable in terms of learning.
   
-### ✅ EfficientNetB0
+### EfficientNetB0
 - Final testing Accuracy: 92%
 - Excellent trade-off between size and performance.
 
 
 ---
 
-## 📊 Evaluation
+## Evaluation
 
 Each model was evaluated on:
 
